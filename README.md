@@ -1,3 +1,3 @@
 "# minesweeper"
 single script spaghetti code for minesweeper on console
-simply run the code
+run the cpp code and see the result!
